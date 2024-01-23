@@ -1,5 +1,8 @@
 package cursojava.executavel;
 
+
+
+
 public class PrimeiraClassejava {
 	/*main é um metedo auto executavel em java*/
 	public static void main(String[] args) {
@@ -7,5 +10,5 @@ public class PrimeiraClassejava {
 		System.out.println("Olá, testando");
 		
 	}
-
-}
+   private String nome;
+} 
